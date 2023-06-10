@@ -17,7 +17,7 @@
         </xs:complexType>
     </xs:element>
 
-    <xs:complexType name="country">
+    <xs:complexType name="country"> 
         <xs:sequence>
             <xs:element name="name" type="xs:string"/>
             <xs:element name="population" type="xs:int"/>
