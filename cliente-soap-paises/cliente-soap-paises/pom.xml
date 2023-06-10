@@ -8,21 +8,15 @@
 		<version>3.1.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pe.edu.idat</groupId>
-	<artifactId>dsw1-soap-J19</artifactId>
+	<groupId>edu.idat.dsw1</groupId>
+	<artifactId>cliente-soap-paises</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dsw1-soap-J19</name>
-	<description>Aprendo a crear un servicio web SOAP</description>
+	<name>cliente-soap-paises</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
-	
 	<dependencies>
-		<dependency>
-
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web-services</artifactId>
